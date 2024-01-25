@@ -12,7 +12,7 @@ Failure to comply with this code of conduct may result in consequences, includin
 
 By participating in the Fuel Developer Champions program, you agree to abide by this code of conduct.
 
-If you have any questions or concerns regarding the code of conduct, please reach out to the program administrators.
+If you have any questions or concerns regarding the code of conduct, please reach out to the program administrators by tagging the [Fuel Team on GitHub](https://github.com/orgs/fuel-champions/teams/fuel-team).
 
 ---
 
